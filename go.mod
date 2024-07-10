@@ -1,4 +1,4 @@
-module github.com/maaslalani/nap
+module github.com/rufus-alex/nap
 
 go 1.19
 

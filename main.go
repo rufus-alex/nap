@@ -28,7 +28,7 @@ import (
 var (
 	helpText = strings.TrimSpace(`
 Nap is a code snippet manager for your terminal.
-https://github.com/maaslalani/nap
+https://github.com/rufus-alex/nap
 
 Usage:
   nap           - for interactive mode
